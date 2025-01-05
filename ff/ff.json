@@ -1,9 +1,3 @@
 {
-  "valid_keys": [
-    "kontol",
-    "secretkey456",
-    "superkey789",
-     "key8438",
-    "key9293"
-  ]
+  "activationCode": "kontol"
 }
